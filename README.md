@@ -1,6 +1,6 @@
 # Chinese numbers classification
 This project concerns a comprehensive workflow for classifying images of Chinese numbers using various neural network architectures, including fully connected neural networks (FCNNs) and convolutional neural networks (CNNs).
-The dataset can be found on [Kaggle](https://www.kaggle.com/) at this [link](https://www.kaggle.com/datasets/gpreda/chinese-mnist)
+The dataset can be found on [Kaggle](https://www.kaggle.com/) at this [link](https://www.kaggle.com/datasets/gpreda/chinese-mnist).
 
 ### Models summary and results
 
